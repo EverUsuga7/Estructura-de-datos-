@@ -44,3 +44,23 @@ public class DiferenciaArreglos {
         System.out.println("\n=== DATOS DEL TERCER ARREGLO (DIFERENCIAS) ===");
         for (int i = 0; i < arregloDiferencia.length; i++) {
             System.out.println("Posición " + (i + 1) + ": " + arreglo1[i] + " - " + arreglo2[i] + 
+
+
+
+
+=== LLENADO DEL PRIMER ARREGLO ===
+Ingrese el número 1 para el primer arreglo: 10
+Ingrese el número 2 para el primer arreglo: 15
+...
+
+=== LLENADO DEL SEGUNDO ARREGLO ===
+Ingrese el número 1 para el segundo arreglo: 3
+Ingrese el número 2 para el segundo arreglo: 7
+...
+
+=== RESULTADOS ===
+El promedio de los datos del tercer arreglo es: 5.2
+
+=== DATOS DEL TERCER ARREGLO (DIFERENCIAS) ===
+Posición 1: 10.0 - 3.0 = 7.0
+Posición 2: 15.0 - 7.0 = 8.0
